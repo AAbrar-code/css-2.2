@@ -1,0 +1,173 @@
+/* .and {
+    background-color: tomato;
+    color: bisque;
+}
+
+.and {
+    font-size: 40px;
+    
+}
+
+input {
+    color: red;
+}
+
+input[type="email"] {
+    color: green;
+}
+input  {
+    background-color: aqua;
+    
+} */
+
+
+/* ---------------------------------- */
+
+/* #green {
+    color: blue;
+}
+
+.green.green-ho {
+    color: green !important;
+}
+
+.green {
+    color: tomato;
+}
+
+body {
+    color: teal;
+    font-size: 10px;
+}
+
+p {
+    border: 10px solid rgba(184, 180, 180, 0.315);
+    padding: 10px;
+} */
+
+
+
+/* .container {
+    background-color: tomato;
+    border: 10px solid black;
+    padding: 10px 20px 30px 50px;
+} */
+
+/* Asterik */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+body {
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 2em;
+}
+h1,
+p {
+
+}
+input[type="email"] {
+    color:black;
+
+} */
+
+/* .box {
+    width: 300px;
+    height: 300px;
+    background-color: cornflowerblue;
+    border: 10px groove red;
+    border-radius: 0 0 50px;
+} */
+
+/* p {
+    text-decoration: line-through;
+} */
+
+/* .box {
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+    margin: 50px;
+    display: inline;
+} */
+/* 
+span {
+    height: 100px;
+    background-color: blanchedalmond;
+    margin: 50px;
+    display: inline-block;
+} */
+
+/* div {
+    height: 500px;
+    padding: 20px;
+    border: 1px solid black;
+}
+/* 
+.para1 {
+    display: none;
+} */
+
+/* .para1 {
+    visibility: hidden;
+} */ 
+
+
+/* .shadow {
+    height: 100px;
+    width: 100px;
+    background-color: azure;
+    border: 1px solid gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+} */
+
+.shadow {
+    font-family: Hind Siliguri;
+}
+/* 
+.vertical {
+    height: 500px;
+    border-left: 1px solid red;
+} */
+/* .overall {
+    height: 100vh;
+    width: 100%;
+} */
+
+/* .bg {
+    width: 500px;
+    height: 100vh;
+    border: 1px dashed red;
+    background-image: url('pattern.png');
+    background-repeat: repeat-y;
+} */
+
+/* 
+- vw
+- vh
+*/
+
+/* img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+} */
+
+/* .maxw {
+    display: inline-block;
+    max-width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    overflow: scroll;
+} */
+

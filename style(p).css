@@ -1,0 +1,40 @@
+/* spacifity */
+#red {
+    background-color: green;
+}
+.red {
+    background-color: blue ;
+}
+/* all properties are learned and checked */
+body{
+    color: teal;
+    margin: 50px 20px;
+    padding: 10px 5px;
+    height: 300px;
+    width: 300px;
+    border: 10px groove blue;
+    border-radius: 0 0 50px;
+}
+/* ul{
+    margin: 0;
+    padding: 1px;
+} */
+/* asterik */
+/* * {
+    margin: 0;
+    padding:0;
+} */
+ .para0 {
+    display: none;
+    ;
+ }
+ .para1 {
+    display: none;
+ }
+ p {
+    text-decoration: line-through;
+ }
+ p{
+    
+ }
+
